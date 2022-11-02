@@ -17,14 +17,8 @@
 * Github: [@yjtan0819](https://github.com/yjtan0819)
 * LinkedIn: [@yijia-tan](https://linkedin.com/in/yijia-tan)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## 📝 License
 
 Copyright © 2022 [Yi Jia Tan](https://github.com/yjtan0819).<br />
-This project is [MIT](t) licensed.
+This project is [MIT](https://github.com/yjtan0819/Personal-Website/blob/master/LICENSE) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
