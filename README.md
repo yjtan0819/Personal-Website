@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Personal Website 👋</h1>
 <p>
-  <a href="t" target="_blank">
+  <a href="https://github.com/yjtan0819/Personal-Website/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
