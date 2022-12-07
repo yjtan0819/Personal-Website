@@ -9,6 +9,10 @@ body{
     overflow-x: hidden;
 }
 
+head{
+    background-color: black;
+}
+
 h1{
     font-size: 5.625rem;
     font-family: 'Sacramento', cursive;
